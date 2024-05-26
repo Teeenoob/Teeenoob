@@ -1,2 +1,6 @@
 ## Hi there 🐀
-- I'll update this file later
+> [!NOTE]
+> I'll update this file later
+####
+> [!IMPORTANT]
+> 💜🐀
