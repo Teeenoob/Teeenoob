@@ -4,4 +4,4 @@
 >> 💜🐀
 ####
 > [!IMPORTANT]
-![](https://steamuserimages-a.akamaihd.net/ugc/2046375698693717093/0B6CAC056CCD3EEF2EABE7F60F3B9435EB37480E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![](https://steamuserimages-a.akamaihd.net/ugc/2371777494060915967/D747913838B6AB5C34CBC44FBD0A30DF9937BC79/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
