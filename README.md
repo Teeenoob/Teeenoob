@@ -1,4 +1,4 @@
-> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ckniqn7yk55djcx6gkrrgusiue&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ckniqn7yk55djcx6gkrrgusiue&redirect=true)
+> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ckniqn7yk55djcx6gkrrgusiue&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ckniqn7yk55djcx6gkrrgusiue&redirect=true)
 >> Spotify thing 💜🐀
 ###
 > [!NOTE]
