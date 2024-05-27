@@ -3,4 +3,4 @@
 > ![](https://steamuserimages-a.akamaihd.net/ugc/2371777494060915967/D747913838B6AB5C34CBC44FBD0A30DF9937BC79/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 > [!IMPORTANT]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teeenoob&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teeenoob&hide=contribs,prs&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
